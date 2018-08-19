@@ -1,0 +1,10 @@
+Objective:
+	To directly link objects into HTML to create a cshtml or django-esque html framework
+	
+
+Components:
+
+1.) Parser - links specific syntax to the model
+2.) Html Creation logic - determines the html generated from an object
+3.) Models - different objects that implement some sort of html creation logic
+4.) Compiler - replaces html with object html
