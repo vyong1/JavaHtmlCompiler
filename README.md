@@ -4,10 +4,10 @@ A primitive Html "Compiler" in the style of Jinja, or Razor, except not nearly a
 
 ```
 <div>
-  <h> Title: @model.Title </h>
+  <h> Title: ${model.Title} </h>
 </div>
 <div>
-  @model.MyStrings
+  ${model.MyStrings}
 </div>
 ```
 
