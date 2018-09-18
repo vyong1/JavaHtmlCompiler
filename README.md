@@ -1,6 +1,6 @@
 # JavaHtmlCompiler
 
-A primitive Html "Compiler" in the style of Flask Jinja, or ASP.NET Razor, except not nearly as smart. For example, converts
+A primitive Html "Compiler" in the style of Jinja, or Razor, except not nearly as smart. For example, converts
 
 ```
 <div>
